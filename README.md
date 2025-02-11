@@ -43,11 +43,13 @@
 ## 📄 HTML Resources
 
   - 🚀 [Landing pages templates](https://htmlrev.com)
+  - 🖋️ [Fonts](https://fontshare.com/)
 
 ## 📊 JavaScript Libraries
 
   - 📱 [Mobile touch slider](https://swiperjs.com)
   - 📈 [Charts library](https://www.chartjs.org)
+  - 🪼 [Free API's](https://publicapis.dev)
 
 ## ⚛️ React Ecosystem
 
