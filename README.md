@@ -14,6 +14,7 @@
 ## 🎨 CSS Tools
 
   - 🧩 [Flex/Grid](https://flexboxlabs.netlify.app)
+  - 📏 [Pixel distance extension](https://chromewebstore.google.com/detail/règle-en-ligne-—-taille-p/jdkcdajnaldgjmkdkkkgenbgdajaaapa)
   - 🖼️ [Website examples for inspiration](https://websitevice.com)
   - 🔮 [Icons](https://unicornicons.com/icons)
   - ⚛️ [Icons](https://react-icons.github.io/react-icons/icons/ai/)
