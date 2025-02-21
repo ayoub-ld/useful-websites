@@ -45,6 +45,7 @@
 
   - 🚀 [Landing pages templates](https://htmlrev.com)
   - 🖋️ [Fonts](https://fontshare.com/)
+  - ✒️ [Fonts](https://fontsource.org/)
 
 ## 📊 JavaScript Libraries
 
