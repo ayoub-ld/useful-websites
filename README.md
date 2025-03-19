@@ -29,6 +29,7 @@
   - 🖼️ [Illustrations](https://undraw.co/illustrations)
   - 🧩 [Create patterns](https://patternpad.com/editor.html)
   - ➗ [Shape divider](https://www.shapedivider.app)
+  - ⏳ [CSS Loader](https://css-loaders.com/classic/)
 
 ## 🌀 Tailwind CSS
 
