@@ -60,6 +60,7 @@
   - 🧩 [React Components](https://21st.dev/?tab=components&sort=recommended)
   - 🧨 `shadcn` [React Components](https://ui.shadcn.com)
   - 🎆 [Animated UI React Components](https://www.reactbits.dev/text-animations/fuzzy-text)
+  - 🅰️ [React Template Admin Dashboard](https://codedthemes.com/item/category/free-templates/free-react-admin-templates/)
   - 🖥️ [Next.js UI Components](https://originui.com)
 
 ## 📥 Video Tools
