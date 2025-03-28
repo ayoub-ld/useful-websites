@@ -41,6 +41,7 @@
   - 🎨 [Tune shades from base color](https://www.tailwindshades.com/)
   - 🆓 [Free templates](https://graygrids.com/templates/tag/tailwind)
   - 🆓 [Free templates 2](https://tailtemplates.com/templates)
+  - 📦 [UI Tailwind components](https://flowbite.com)
 
 ## 📄 HTML Resources
 
